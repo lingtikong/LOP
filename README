@@ -1,0 +1,5 @@
+Program to measure the local order parameter based on
+rmsd with respect to ideal crystal; the neighbor list
+is expected from voro++.
+
+Currently works for BCC/B2 structure only.
